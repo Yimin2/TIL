@@ -18,13 +18,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbe156de-ac88-4554-966f-c42956c61f5c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/상속/컴포지션.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="fbe156de-ac88-4554-966f-c42956c61f5c" name="Changes" comment="docs: README.md 수정 및 프로젝트 설명 추가&#10;&#10;- TIL 프로젝트 배경 및 작성 규칙 추가&#10;- 기존 읽기 어려운 내용 수정 및 문서 구조 개선&#10;- Java 카테고리 내용 간소화 및 핵심 개념 강조">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/상속/컴포지션.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/상속/컴포지션.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,11 +90,24 @@
       <updated>1697695480634</updated>
       <workItem from="1762842239485" duration="231000" />
       <workItem from="1762842483358" duration="31000" />
-      <workItem from="1762842527540" duration="375000" />
+      <workItem from="1762842527540" duration="1439000" />
     </task>
+    <task id="LOCAL-00001" summary="docs: README.md 수정 및 프로젝트 설명 추가&#10;&#10;- TIL 프로젝트 배경 및 작성 규칙 추가&#10;- 기존 읽기 어려운 내용 수정 및 문서 구조 개선&#10;- Java 카테고리 내용 간소화 및 핵심 개념 강조">
+      <option name="closed" value="true" />
+      <created>1762843160910</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1762843160910</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="docs: README.md 수정 및 프로젝트 설명 추가&#10;&#10;- TIL 프로젝트 배경 및 작성 규칙 추가&#10;- 기존 읽기 어려운 내용 수정 및 문서 구조 개선&#10;- Java 카테고리 내용 간소화 및 핵심 개념 강조" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs: README.md 수정 및 프로젝트 설명 추가&#10;&#10;- TIL 프로젝트 배경 및 작성 규칙 추가&#10;- 기존 읽기 어려운 내용 수정 및 문서 구조 개선&#10;- Java 카테고리 내용 간소화 및 핵심 개념 강조" />
   </component>
 </project>
