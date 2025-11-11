@@ -18,7 +18,8 @@ https://velog.io/@gownfla14/posts
 
 ### Java
 - Java 기본 문법 및 핵심 개념
-
+### SQLD
+- SQLD 개념 
 ## 기록
 
 ### 2025년 11월
