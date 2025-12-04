@@ -57,7 +57,8 @@ public class User {
 }
 
 // 사용 예
-User user = new User.Builder().name("namsu")
+User user = new User.Builder()
+        .name("namsu")
         .age(30)
         .email("namsu@example.com")
         .build();
