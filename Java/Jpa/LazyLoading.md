@@ -9,10 +9,10 @@ JPA에서 연관 엔티티를 **실제 사용 시점까지 조회를 미루는 �
 - 반대 개념: **Eager Loading** (즉시 로딩, 연관 엔티티를 항상 같이 조회)
 - N+1 문제 발생 가능
 
----
-
 ## 2. 적용
+
 [지연로딩 예시_깃허브](https://github.com/Yimin2/intagram_clone/commit/0ab35badde6a5bec7aa0788c0c8ea52f6c64b136)
+
 - ManyToOne / OneToMany / OneToOne 등 연관 관계 필드에 지정
 - fetch = FetchType.LAZY 
 
