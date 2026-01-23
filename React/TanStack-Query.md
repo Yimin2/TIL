@@ -81,9 +81,11 @@ rules: {
 
 ### placeholderData
 - 새로운 데이터를 가져오는 과정에서 일시적으로 데이터가 없는 상태일 때 출력 화면이 깜빡이는 현상 방지
-- placeholderData: keepPreviousData // 이전 데이터 출력
+```javascript
+placeholderData: keepPreviousData // 이전 데이터 출력
+```
 
-### structuralSharing
+### structuralSharing (기본 값 적용)
 - 새로운 데이터를 가져올 때 이전 데이터와 비교해 변경되지 않은 부분은 이전 데이터를 재사용하도록
 - 발생하는 비교 연산 비용보다, 리액트의 리렌더링 및 useMemo/useEffect 재실행으로 인한 비용이 일반적으로 훨씬 크기 때문에 기본값(true)을 유지하는 것이 유리
 - 데이터가 수만 개 이상의 거대한 배열이어서 비교 연산 자체가 메인 스레드를 수 초간 점유하는 특이 케이스가 아니라면, 항상 true로 두는 것이 리액트 아키텍처 관점에서 훨씬 효율적
